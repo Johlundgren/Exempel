@@ -4,6 +4,7 @@ h1 {
     color:black;
     text-align: center;
     font-size: 100px;
+    margin-left: 100px;
 }
 h2 {
     color:black; 
@@ -47,4 +48,11 @@ img {
 }
 .small-image {
     height: 60px;
+}
+li {
+    color: white;
+}
+ol {
+    margin-right: 780px;
+    margin-left: 100px;
 }
